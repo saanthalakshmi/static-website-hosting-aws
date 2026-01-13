@@ -9,4 +9,4 @@ A static restaurant website hosted on Amazon S3 and delivered globally using Ama
 - GitHub
 
 ## Live Demo
-CloudFront URL: https://dxxxxxxxx.cloudfront.net
+CloudFront URL: https://d2q2llytusrqiy.cloudfront.net/
